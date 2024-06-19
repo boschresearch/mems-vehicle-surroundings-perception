@@ -1,6 +1,10 @@
 ## MEMS Vehicle Surroundings Perception
 
-This is the companion code for the paper entitled "Always-on Vehicle Surroundings Perception using MEMS Inertial Sensors" by Lahr et. al. which is submitted to the Journal of Advanced Intelligent Systems. The code allows the users to reproduce and extend the results reported in the paper.
+This is the companion code for the paper entitled "Always-on Vehicle Surroundings Perception using MEMS Inertial Sensors" by Lahr et. al. which was published in the Journal of Advanced Intelligent Systems. The code allows the users to reproduce and extend the results reported in the paper. 
+
+The publication can be found here:
+
+<https://doi.org/10.1002/aisy.202300679>
 
 ## Purpose of the Project
 
